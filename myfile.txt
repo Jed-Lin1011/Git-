@@ -9,3 +9,4 @@ new line from Main from local device
 再来一次 local to cloud
 
 new line from Github online
+learn how to git fetch
